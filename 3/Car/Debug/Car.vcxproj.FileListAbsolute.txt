@@ -1,0 +1,3 @@
+C:\Users\Дэн\Documents\GitHub\oop\3\Car\Debug\Car.exe
+C:\Users\Данила\Documents\GitHub\oop\3\Car\Debug\Car.exe
+C:\Users\Данила\Documents\GitHub\oop\3\Car\Debug\Car.pdb
