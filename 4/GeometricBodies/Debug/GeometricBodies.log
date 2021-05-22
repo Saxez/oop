@@ -1,0 +1,3 @@
+﻿  Handler.cpp
+C:\Users\Дэн\Documents\GitHub\oop\4\GeometricBodies\Handler.cpp(116): warning C4715: Handler::ExecutingCommand: значение возвращается не при всех путях выполнения
+  GeometricBodies.vcxproj -> C:\Users\Дэн\Documents\GitHub\oop\4\GeometricBodies\Debug\GeometricBodies.exe
